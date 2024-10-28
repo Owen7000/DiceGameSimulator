@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"diceSimulator","l":"Dice"},{"p":"diceSimulator","l":"DiceGameController"},{"p":"diceSimulator","l":"Player"},{"p":"diceSimulator","l":"Simulator"},{"p":"diceSimulator","l":"ThrowASix"},{"p":"diceSimulator","l":"TwoDice"},{"p":"diceSimulator","l":"TwoPlayerGame"}];updateSearchResults();
